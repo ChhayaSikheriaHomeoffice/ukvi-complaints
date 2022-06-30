@@ -25,7 +25,7 @@
 				"label": "Refunds"
 			},
 			"staff-behaviour": {
-				"label": "Poor information or staff behaviour"
+				"label": "Staff behaviour"
 			},
 			"existing-complaint": {
 				"label": "An existing complaint"
@@ -136,7 +136,7 @@
 	},
 	"reference-numbers": {
 		"hint": "Select one ",
-		"legend": "A reference number will help us look into your complaint more quickly.",
+		"legend": "If you do not provide the correct reference number, this could delay us in responding to your complaint.",
 		"options": {
 			"gwf": {
 				"label": "GWF number"
@@ -352,7 +352,7 @@
 				"label": "Not yet"
 			},
 			"not-yet": {
-				"label": "No, I was told the refund would be automatic"
+				"label": "No"
 			}
 		},
 		"validation": {
@@ -518,7 +518,7 @@
 				"label": "Refunds"
 			},
 			"staff-behaviour": {
-				"label": "Poor information or staff behaviour"
+				"label": "Staff behaviour"
 			},
 			"existing-complaint": {
 				"label": "An existing complaint"
